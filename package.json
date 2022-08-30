@@ -1,0 +1,12 @@
+{
+  "name": "vehicle-tracking-system-messaging",
+  "version": "1.0.0",
+  "description": "The messaging part of the Vehicle Tracking System. Provides data from multiple sources to client applications.",
+  "main": "index.js",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "neat-csv": "^7.0.0",
+    "zeromq": "^5.2.8"
+  }
+}
